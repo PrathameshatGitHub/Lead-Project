@@ -1,0 +1,19 @@
+.wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-2) 0;
+  cursor: pointer;
+}
+
+.box {
+  width: 22px;
+  height: 22px;
+  margin: 0;
+  flex-shrink: 0;
+  accent-color: var(--color-primary);
+}
+
+.invalid {
+  outline: 2px solid var(--color-error);
+}
