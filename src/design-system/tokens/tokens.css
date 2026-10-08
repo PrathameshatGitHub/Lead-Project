@@ -1,0 +1,30 @@
+:root {
+  --color-bg: #f3f5f2;
+  --color-surface: #ffffff;
+  --color-text: #16211d;
+  --color-muted: #55615b;
+  --color-border: #aeb9b3;
+  --color-primary: #0f6b5c;
+  --color-primary-dark: #0a5648;
+  --color-error: #b3261e;
+  --color-error-bg: #fdecea;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --font-sans: 'Segoe UI', system-ui, Arial, sans-serif;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-xl: 1.75rem;
+
+  --radius: 8px;
+  --control-height: 46px;
+
+  --bp-mobile: 767px;
+  --bp-desktop: 1025px;
+}
